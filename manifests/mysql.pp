@@ -1,4 +1,4 @@
 #
-class roles::mysal {
+class roles::mysql {
   include profiles::mysql
 }
